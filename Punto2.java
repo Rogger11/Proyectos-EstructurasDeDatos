@@ -6,7 +6,6 @@ public class Punto2 {
         int i = 0;
         int d = Palabra.length()-1;
         boolean E = false;
-        
         while((i<d) && (!E)){
             if (Palabra.toLowerCase().charAt(i)==Palabra.toLowerCase().charAt(d)){
                 i++;
