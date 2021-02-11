@@ -6,7 +6,6 @@ public class Punto3 {
         int n2 = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingresa el segundo número."));
         int resultado = 0;
         int i = 0;
-        boolean listo = false;
         while(i < n1){
             resultado = resultado + (n2);
             i++;
