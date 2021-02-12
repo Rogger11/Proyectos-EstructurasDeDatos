@@ -21,4 +21,4 @@ public class Punto2 {
         }
     }
 }
-//Desarrollado por: Hamilton Andrés Echeverri Guzmán - Jun Diego López Botero
+//Desarrollado por: Hamilton Andrés Echeverri Guzmán - Juan Diego López Botero

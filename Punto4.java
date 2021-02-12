@@ -17,4 +17,4 @@ public class Punto4 {
         JOptionPane.showMessageDialog(null, "El resultado es: " + resultado);
     }
 }
-//Desarrollado por: Hamilton Andrés Echeverri Guzmán - Jun Diego López Botero
+//Desarrollado por: Hamilton Andrés Echeverri Guzmán - Juan Diego López Botero
