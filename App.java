@@ -1,7 +1,7 @@
 package com.mycompany.repaso1;
-import javax.swing.JOptionPane;
 import java.util.ArrayList;
 import java.util.Collections;
+import javax.swing.JOptionPane;
 public class App {
     public static void main(String[] args) {
         ArrayList<Integer> numeros = new ArrayList<Integer>();
@@ -20,3 +20,5 @@ public class App {
         JOptionPane.showMessageDialog(null, "El número máximo es: "+ Collections.max(numeros));
     }
 }
+
+//Desarrollado por: Hamilton Andrés Echeverri Guzmán

@@ -19,3 +19,6 @@ public class Punto5 {
         JOptionPane.showMessageDialog(null, "El factorial de "+ numero +" = "+ numero +"! = "+ listaham +" = "+ Fact);
     }
 }
+
+
+//Desarrollado por: Hamilton Andrés Echeverri Guzmán
